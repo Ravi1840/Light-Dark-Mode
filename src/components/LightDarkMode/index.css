@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.Dark-Mode {
+  background-color: black;
+  height: 100vh;
+}
+.Light-Mode {
+  background-color: white;
+  height: 100vh;
+}
